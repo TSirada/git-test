@@ -1,0 +1,9 @@
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\bin\Debug\Phone.exe.config
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\bin\Debug\Phone.exe
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\bin\Debug\Phone.pdb
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\obj\Debug\Phone.csprojResolveAssemblyReference.cache
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\obj\Debug\Phone.frmTax.resources
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\obj\Debug\Phone.Properties.Resources.resources
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\obj\Debug\Phone.csproj.GenerateResource.Cache
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\obj\Debug\Phone.exe
+D:\f\learn\Kasetsart\Training\Visual Studio\Phone\Phone\obj\Debug\Phone.pdb
