@@ -55,7 +55,7 @@
             // 
             // txtTax
             // 
-            this.txtTax.Location = new System.Drawing.Point(116, 97);
+            this.txtTax.Location = new System.Drawing.Point(126, 93);
             this.txtTax.Name = "txtTax";
             this.txtTax.Size = new System.Drawing.Size(100, 22);
             this.txtTax.TabIndex = 2;
@@ -80,7 +80,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(13, 102);
+            this.label2.Location = new System.Drawing.Point(23, 98);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(81, 17);
             this.label2.TabIndex = 5;
